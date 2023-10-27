@@ -27,6 +27,10 @@ const res2 = Number.filter((currentvalue) => {
 
 })
 
+const res3 = Number.map((currentvalue) => currentvalue * 4
 
-console.log(res2);
+);
+
+
+console.log(res3);
 
